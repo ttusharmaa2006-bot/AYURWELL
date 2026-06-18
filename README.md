@@ -75,8 +75,8 @@ npm run build
 
 ## 👨‍💻 Developer
 
-Mihir Chaudhary\
-B.Tech CS-IT Student\
+Tushar Sharma\
+B.Tech CSE Student\
 KCC Institute, Greater Noida
 
 ------------------------------------------------------------------------
